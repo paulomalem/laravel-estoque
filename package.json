@@ -1,0 +1,23 @@
+{
+  "name": "estoque",
+  "version": "1.0.0",
+  "description": "Controle simples de estoque.",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^6.0.0-14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/Michael_Neves/estoque.git"
+  },
+  "author": "Michael Douglas Dutra Neves",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/Michael_Neves/estoque#readme"
+}

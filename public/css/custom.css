@@ -1,0 +1,93 @@
+.left {
+    float: left;
+    display: block;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.right {
+    float: right;
+    display: block;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.left-button {
+    float: left;
+    display: block;
+}
+
+.right-button {
+    float: right;
+    display: block;
+}
+
+.right > a {
+    margin-top: 10px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.btn {
+    border-radius: 0px;
+}
+
+.btn-default {
+    color: #6f6f6f;
+    background-color: #dad9d9;
+    border-color: #ccc;
+}
+
+.alert {
+    float: right;
+    display: none;
+}
+
+.alert-danger {
+    margin-top: 1% !important;
+}
+
+.panel-green > .panel-heading {
+    background-color: #006c95;
+    color: #eee;
+}
+
+.panel-heading {
+    margin: -1px;
+}
+
+.no-padding {
+    padding: 0px;
+}
+
+.padding-8 {
+    padding: 8px;
+}
+
+.shadow {
+    box-shadow: 0px 0px 2px #000;
+}
+
+.actions {
+    margin-right: 20px;
+    margin-left: 20px;
+    padding-right: 1px;
+    width: 21px !important;
+    padding-left: 1px;
+}
+
+.form-control {
+    border-radius: 0px;
+}
+
+.asper {
+    color: #dc0000;
+    font-size: 20px;
+    line-height: 0px;
+}
+
+.click {
+    cursor: pointer;
+}
